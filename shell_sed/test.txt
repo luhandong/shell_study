@@ -1,0 +1,9 @@
+文件系统        容量  已用  可用 已用% 挂载点
+udev            3.6G     0  3.6G    0% /dev
+tmpfs           741M  9.5M  732M    2% /run
+/dev/sda1        49G  5.6G   41G   13% /
+tmpfs           3.7G  188K  3.7G    1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M    1% /run/lock
+tmpfs           3.7G     0  3.7G    0% /sys/fs/cgroup
+tmpfs           741M   32K  741M    1% /run/user/108
+tmpfs           741M     0  741M    0% /run/user/1000

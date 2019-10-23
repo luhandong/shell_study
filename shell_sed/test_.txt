@@ -1,0 +1,6 @@
+ampfs           741M  9.5M  732M    2% /run
+ampfs           3.7G  188K  3.7G    1% /dev/shm
+ampfs           5.0M  4.0K  5.0M    1% /run/lock
+ampfs           3.7G     0  3.7G    0% /sys/fs/cgroup
+ampfs           741M   32K  741M    1% /run/user/108
+ampfs           741M     0  741M    0% /run/user/1000
